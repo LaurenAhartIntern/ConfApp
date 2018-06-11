@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="telosDarkBlue">#003468</color>
+    <color name="telosLightBlue">#56A1D5</color>
+    <color name="telosButtonGreen">#60E651</color>
+    <color name="telosButtonGrey">#C5D1C3</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
